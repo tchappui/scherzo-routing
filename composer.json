@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-routing",
+    "description": "Scherzo-routing is the router component used by the Scherzo educational we framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
